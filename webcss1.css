@@ -1,0 +1,12 @@
+body {
+	background-color:#5c3711;
+}
+
+h1 {
+	color:white;
+	height: 200px;
+  width: 50%;
+  position: fixed;
+  bottom: 300px;
+  right: 200px;
+}

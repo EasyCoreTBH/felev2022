@@ -1,0 +1,22 @@
+body {
+	background-color:#5c3711;
+}
+
+img {
+  height: 200px;
+  width: 30%;
+  position: fixed;
+  bottom: 300px;
+  right: 450px;
+}
+
+a {
+  height: 200px;
+  width: 30%;
+  position: fixed;
+  bottom: 100px;
+  right: 150px;
+  font-size:35px;
+  font-family:arial;
+  font-style:bold;
+}
